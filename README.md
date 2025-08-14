@@ -89,9 +89,9 @@ const CoolButton = () => {
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hujiaqing0601@gmail.com"><img src="https://img.shields.io/badge/hujiaqing0601@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jieceng"><img src="https://img.shields.io/badge/LinkedIn-jieceng-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/jieceng"><img src="https://img.shields.io/badge/X-jieceng-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/jieceng"><img src="https://img.shields.io/badge/X-chengjie868212-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 > **Always open to chat about frontend, design, or any cool tech!** 😄
