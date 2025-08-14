@@ -89,7 +89,7 @@ const CoolButton = () => {
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:1657677267@qq.com"><img src="https://img.shields.io/badge/1657677267@qq.com-D14836?style=flat-square&logo=qq&logoColor=black" /></a>
+  <a href="mailto:1657677267@qq.com"><img src="https://img.shields.io/badge/1657677267@qq.com-D14836?style=flat-square&logo=qq&logoColor=white" /></a>
   <a href="mailto:hujiaqing0601@gmail.com"><img src="https://img.shields.io/badge/hujiaqing0601@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/chengjie868212"><img src="https://img.shields.io/badge/X-jiecheng-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
